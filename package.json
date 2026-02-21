@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-micro-port-framework-web-jel",
+  "version": "1.0.0",
+  "description": "Scalable microservice architecture",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "micro-port-framework-web-jel"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-micro-port-framework-web-jel.git"
+  }
+}
